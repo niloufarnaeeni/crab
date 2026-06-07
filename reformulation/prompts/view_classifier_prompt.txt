@@ -1,0 +1,37 @@
+You are classifying a rewritten Web3 project description into exactly one view family.
+
+Return strict JSON only.
+Do not include markdown.
+Do not include explanations outside the JSON.
+Do not add extra keys.
+
+You will be given:
+
+* original_project_description
+* rewritten_project_description
+
+Use the original description only as context for the intended meaning.
+Classify the rewritten description based on its dominant emphasis.
+
+Choose exactly one predicted_view_family from:
+
+creator_focused:
+The rewritten description mainly emphasizes relevant creators, contributors, educators, testers, developers, analysts, advocates, or ecosystem participants.
+
+technical:
+The rewritten description mainly emphasizes protocol, product, infrastructure, mechanism, architecture, or implementation-level aspects.
+
+skill_focused:
+The rewritten description mainly emphasizes expertise areas, skill requirements, or contribution areas relevant to the project.
+
+compressed:
+The rewritten description mainly provides a shorter retrieval-oriented summary of the original project without strongly emphasizing creators, technical details, or skills.
+
+If more than one family seems possible, choose the one that best describes the dominant framing of the rewritten description.
+
+Return exactly this JSON schema:
+
+{
+"predicted_view_family": "technical",
+"short_reason": "The rewritten description mainly emphasizes protocol and infrastructure aspects."
+}

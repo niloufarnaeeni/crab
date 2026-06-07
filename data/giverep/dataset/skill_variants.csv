@@ -1,0 +1,157 @@
+skill_id,base_keyword,original_skill_keyword,paraphrased_keyword,source_file
+S1,Decentralized Exchange (DEX),Decentralized Exchange (DEX),DEX trading protocols,expanded_skills.csv
+S1,Decentralized Exchange (DEX),Decentralized Exchange (DEX),decentralized token exchanges,expanded_skills.csv
+S1,Decentralized Exchange (DEX),Decentralized Exchange (DEX),on-chain swap markets,expanded_skills.csv
+S1,Decentralized Exchange (DEX),Decentralized Exchange (DEX),permissionless crypto exchanges,expanded_skills.csv
+S2,Automated Market Maker (AMM),Automated Market Maker (AMM),AMM liquidity pools,expanded_skills.csv
+S2,Automated Market Maker (AMM),Automated Market Maker (AMM),algorithmic market makers,expanded_skills.csv
+S2,Automated Market Maker (AMM),Automated Market Maker (AMM),on-chain pool pricing,expanded_skills.csv
+S2,Automated Market Maker (AMM),Automated Market Maker (AMM),bonding curve AMMs,expanded_skills.csv
+S3,Concentrated Liquidity (CLMM),Concentrated Liquidity (CLMM),CLMM liquidity pools,expanded_skills.csv
+S3,Concentrated Liquidity (CLMM),Concentrated Liquidity (CLMM),concentrated liquidity AMMs,expanded_skills.csv
+S3,Concentrated Liquidity (CLMM),Concentrated Liquidity (CLMM),range-based liquidity provision,expanded_skills.csv
+S3,Concentrated Liquidity (CLMM),Concentrated Liquidity (CLMM),custom price-range liquidity,expanded_skills.csv
+S4,Central Limit Order Book (CLOB),Central Limit Order Book (CLOB),on-chain CLOB systems,expanded_skills.csv
+S4,Central Limit Order Book (CLOB),Central Limit Order Book (CLOB),limit order book trading,expanded_skills.csv
+S4,Central Limit Order Book (CLOB),Central Limit Order Book (CLOB),shared liquidity order books,expanded_skills.csv
+S4,Central Limit Order Book (CLOB),Central Limit Order Book (CLOB),CLOB-based DEXs,expanded_skills.csv
+S5,Perpetuals & Derivatives,Perpetuals & Derivatives,on-chain derivatives markets,expanded_skills.csv
+S5,Perpetuals & Derivatives,Perpetuals & Derivatives,perpetual futures protocols,expanded_skills.csv
+S5,Perpetuals & Derivatives,Perpetuals & Derivatives,DeFi derivatives trading,expanded_skills.csv
+S5,Perpetuals & Derivatives,Perpetuals & Derivatives,margin options and hedging markets,expanded_skills.csv
+S6,DEX Aggregation & Route Optimization,DEX Aggregation & Route Optimization,DEX routing optimization,expanded_skills.csv
+S6,DEX Aggregation & Route Optimization,DEX Aggregation & Route Optimization,liquidity route aggregation,expanded_skills.csv
+S6,DEX Aggregation & Route Optimization,DEX Aggregation & Route Optimization,multi-path swap routing,expanded_skills.csv
+S6,DEX Aggregation & Route Optimization,DEX Aggregation & Route Optimization,cross-DEX trade optimization,expanded_skills.csv
+S7,Yield Aggregators & Auto-Compounding Vaults,Yield Aggregators & Auto-Compounding Vaults,auto-compounding yield vaults,expanded_skills.csv
+S7,Yield Aggregators & Auto-Compounding Vaults,Yield Aggregators & Auto-Compounding Vaults,DeFi yield aggregators,expanded_skills.csv
+S7,Yield Aggregators & Auto-Compounding Vaults,Yield Aggregators & Auto-Compounding Vaults,automated vault strategies,expanded_skills.csv
+S7,Yield Aggregators & Auto-Compounding Vaults,Yield Aggregators & Auto-Compounding Vaults,yield optimization protocols,expanded_skills.csv
+S8,Lending & Borrowing Protocols,Lending & Borrowing Protocols,DeFi lending markets,expanded_skills.csv
+S8,Lending & Borrowing Protocols,Lending & Borrowing Protocols,on-chain borrowing protocols,expanded_skills.csv
+S8,Lending & Borrowing Protocols,Lending & Borrowing Protocols,collateralized lending protocols,expanded_skills.csv
+S8,Lending & Borrowing Protocols,Lending & Borrowing Protocols,smart contract credit markets,expanded_skills.csv
+S9,Liquid Staking Derivatives (LSD),Liquid Staking Derivatives (LSD),LSD staking tokens,expanded_skills.csv
+S9,Liquid Staking Derivatives (LSD),Liquid Staking Derivatives (LSD),liquid staking tokens,expanded_skills.csv
+S9,Liquid Staking Derivatives (LSD),Liquid Staking Derivatives (LSD),tokenized staked assets,expanded_skills.csv
+S9,Liquid Staking Derivatives (LSD),Liquid Staking Derivatives (LSD),tradable staking derivatives,expanded_skills.csv
+S10,Restaking & BTC Liquidity Solutions,Restaking & BTC Liquidity Solutions,restaking liquidity mechanisms,expanded_skills.csv
+S10,Restaking & BTC Liquidity Solutions,Restaking & BTC Liquidity Solutions,BTC liquidity solutions,expanded_skills.csv
+S10,Restaking & BTC Liquidity Solutions,Restaking & BTC Liquidity Solutions,staked asset reuse,expanded_skills.csv
+S10,Restaking & BTC Liquidity Solutions,Restaking & BTC Liquidity Solutions,Bitcoin liquidity infrastructure,expanded_skills.csv
+S11,Real-World Asset (RWA) Tokenization & RWA Finance,Real-World Asset (RWA) Tokenization & RWA Finance,RWA tokenization protocols,expanded_skills.csv
+S11,Real-World Asset (RWA) Tokenization & RWA Finance,Real-World Asset (RWA) Tokenization & RWA Finance,real-world asset finance,expanded_skills.csv
+S11,Real-World Asset (RWA) Tokenization & RWA Finance,Real-World Asset (RWA) Tokenization & RWA Finance,tokenized RWA markets,expanded_skills.csv
+S11,Real-World Asset (RWA) Tokenization & RWA Finance,Real-World Asset (RWA) Tokenization & RWA Finance,on-chain RWA finance,expanded_skills.csv
+S12,Stablecoin Protocols & CDPs,Stablecoin Protocols & CDPs,CDP stablecoin systems,expanded_skills.csv
+S12,Stablecoin Protocols & CDPs,Stablecoin Protocols & CDPs,collateralized stablecoin protocols,expanded_skills.csv
+S12,Stablecoin Protocols & CDPs,Stablecoin Protocols & CDPs,stable-value token protocols,expanded_skills.csv
+S12,Stablecoin Protocols & CDPs,Stablecoin Protocols & CDPs,stablecoin issuance mechanisms,expanded_skills.csv
+S13,Oracles & On-chain Price Feeds,Oracles & On-chain Price Feeds,on-chain price oracles,expanded_skills.csv
+S13,Oracles & On-chain Price Feeds,Oracles & On-chain Price Feeds,oracle price feeds,expanded_skills.csv
+S13,Oracles & On-chain Price Feeds,Oracles & On-chain Price Feeds,smart contract data feeds,expanded_skills.csv
+S13,Oracles & On-chain Price Feeds,Oracles & On-chain Price Feeds,off-chain data feeds,expanded_skills.csv
+S14,Cross-chain Bridges & Interoperability,Cross-chain Bridges & Interoperability,cross-chain bridge protocols,expanded_skills.csv
+S14,Cross-chain Bridges & Interoperability,Cross-chain Bridges & Interoperability,blockchain interoperability tools,expanded_skills.csv
+S14,Cross-chain Bridges & Interoperability,Cross-chain Bridges & Interoperability,multichain asset transfer,expanded_skills.csv
+S14,Cross-chain Bridges & Interoperability,Cross-chain Bridges & Interoperability,cross-chain message transfer,expanded_skills.csv
+S15,Decentralized Storage & Data Availability,Decentralized Storage & Data Availability,decentralized data storage,expanded_skills.csv
+S15,Decentralized Storage & Data Availability,Decentralized Storage & Data Availability,data availability layers,expanded_skills.csv
+S15,Decentralized Storage & Data Availability,Decentralized Storage & Data Availability,distributed storage networks,expanded_skills.csv
+S15,Decentralized Storage & Data Availability,Decentralized Storage & Data Availability,censorship-resistant storage,expanded_skills.csv
+S16,MPC Key Management & Wallet Abstractions,MPC Key Management & Wallet Abstractions,MPC wallet custody,expanded_skills.csv
+S16,MPC Key Management & Wallet Abstractions,MPC Key Management & Wallet Abstractions,threshold key management,expanded_skills.csv
+S16,MPC Key Management & Wallet Abstractions,MPC Key Management & Wallet Abstractions,MPC signing protocols,expanded_skills.csv
+S16,MPC Key Management & Wallet Abstractions,MPC Key Management & Wallet Abstractions,wallet key abstraction,expanded_skills.csv
+S17,Multisig Wallets & Treasury Management,Multisig Wallets & Treasury Management,multi-signature wallet tools,expanded_skills.csv
+S17,Multisig Wallets & Treasury Management,Multisig Wallets & Treasury Management,shared treasury wallets,expanded_skills.csv
+S17,Multisig Wallets & Treasury Management,Multisig Wallets & Treasury Management,multisig treasury controls,expanded_skills.csv
+S17,Multisig Wallets & Treasury Management,Multisig Wallets & Treasury Management,on-chain treasury management,expanded_skills.csv
+S18,Name Services & Decentralized Identity (DID),Name Services & Decentralized Identity (DID),decentralized name services,expanded_skills.csv
+S18,Name Services & Decentralized Identity (DID),Name Services & Decentralized Identity (DID),DID identity systems,expanded_skills.csv
+S18,Name Services & Decentralized Identity (DID),Name Services & Decentralized Identity (DID),on-chain naming systems,expanded_skills.csv
+S18,Name Services & Decentralized Identity (DID),Name Services & Decentralized Identity (DID),wallet identity mapping,expanded_skills.csv
+S19,Privacy-preserving Identity & ZK KYC,Privacy-preserving Identity & ZK KYC,ZK KYC systems,expanded_skills.csv
+S19,Privacy-preserving Identity & ZK KYC,Privacy-preserving Identity & ZK KYC,privacy-preserving identity proofs,expanded_skills.csv
+S19,Privacy-preserving Identity & ZK KYC,Privacy-preserving Identity & ZK KYC,anonymous KYC verification,expanded_skills.csv
+S19,Privacy-preserving Identity & ZK KYC,Privacy-preserving Identity & ZK KYC,selective disclosure identity,expanded_skills.csv
+S20,Zero-Knowledge Proofs & Verification Layers,Zero-Knowledge Proofs & Verification Layers,ZK verification layers,expanded_skills.csv
+S20,Zero-Knowledge Proofs & Verification Layers,Zero-Knowledge Proofs & Verification Layers,zero-knowledge proof protocols,expanded_skills.csv
+S20,Zero-Knowledge Proofs & Verification Layers,Zero-Knowledge Proofs & Verification Layers,succinct proof verification,expanded_skills.csv
+S20,Zero-Knowledge Proofs & Verification Layers,Zero-Knowledge Proofs & Verification Layers,privacy-preserving verification layers,expanded_skills.csv
+S21,"SDKs, APIs & Developer Tooling","SDKs, APIs & Developer Tooling",developer SDKs and APIs,expanded_skills.csv
+S21,"SDKs, APIs & Developer Tooling","SDKs, APIs & Developer Tooling",smart contract tooling,expanded_skills.csv
+S21,"SDKs, APIs & Developer Tooling","SDKs, APIs & Developer Tooling",dApp development libraries,expanded_skills.csv
+S21,"SDKs, APIs & Developer Tooling","SDKs, APIs & Developer Tooling",blockchain developer toolchains,expanded_skills.csv
+S22,Move Ecosystem & Move-based Smart Contracts,Move Ecosystem & Move-based Smart Contracts,Move smart contracts,expanded_skills.csv
+S22,Move Ecosystem & Move-based Smart Contracts,Move Ecosystem & Move-based Smart Contracts,Move-based contract development,expanded_skills.csv
+S22,Move Ecosystem & Move-based Smart Contracts,Move Ecosystem & Move-based Smart Contracts,Move ecosystem tooling,expanded_skills.csv
+S22,Move Ecosystem & Move-based Smart Contracts,Move Ecosystem & Move-based Smart Contracts,Move developer tooling,expanded_skills.csv
+S23,Tokenomics & ve-style / Incentive Design,Tokenomics & ve-style / Incentive Design,ve-style tokenomics,expanded_skills.csv
+S23,Tokenomics & ve-style / Incentive Design,Tokenomics & ve-style / Incentive Design,token incentive design,expanded_skills.csv
+S23,Tokenomics & ve-style / Incentive Design,Tokenomics & ve-style / Incentive Design,vote-escrow mechanics,expanded_skills.csv
+S23,Tokenomics & ve-style / Incentive Design,Tokenomics & ve-style / Incentive Design,token reward structures,expanded_skills.csv
+S24,Dynamic AMM Engines & Bonding Curves,Dynamic AMM Engines & Bonding Curves,dynamic AMM designs,expanded_skills.csv
+S24,Dynamic AMM Engines & Bonding Curves,Dynamic AMM Engines & Bonding Curves,bonding curve mechanisms,expanded_skills.csv
+S24,Dynamic AMM Engines & Bonding Curves,Dynamic AMM Engines & Bonding Curves,adaptive AMM engines,expanded_skills.csv
+S24,Dynamic AMM Engines & Bonding Curves,Dynamic AMM Engines & Bonding Curves,dynamic fee AMMs,expanded_skills.csv
+S25,Flash Loans & Instant Settlement,Flash Loans & Instant Settlement,atomic flash loans,expanded_skills.csv
+S25,Flash Loans & Instant Settlement,Flash Loans & Instant Settlement,instant loan settlement,expanded_skills.csv
+S25,Flash Loans & Instant Settlement,Flash Loans & Instant Settlement,uncollateralized transaction loans,expanded_skills.csv
+S25,Flash Loans & Instant Settlement,Flash Loans & Instant Settlement,single-transaction borrowing,expanded_skills.csv
+S26,On-chain AI & AI Agent Infrastructure,On-chain AI & AI Agent Infrastructure,blockchain AI infrastructure,expanded_skills.csv
+S26,On-chain AI & AI Agent Infrastructure,On-chain AI & AI Agent Infrastructure,on-chain agent frameworks,expanded_skills.csv
+S26,On-chain AI & AI Agent Infrastructure,On-chain AI & AI Agent Infrastructure,AI agent coordination layers,expanded_skills.csv
+S26,On-chain AI & AI Agent Infrastructure,On-chain AI & AI Agent Infrastructure,blockchain-native AI services,expanded_skills.csv
+S27,On-chain Analytics & Wallet-level Data Insights,On-chain Analytics & Wallet-level Data Insights,wallet analytics tools,expanded_skills.csv
+S27,On-chain Analytics & Wallet-level Data Insights,On-chain Analytics & Wallet-level Data Insights,on-chain data insights,expanded_skills.csv
+S27,On-chain Analytics & Wallet-level Data Insights,On-chain Analytics & Wallet-level Data Insights,wallet-level transaction analytics,expanded_skills.csv
+S27,On-chain Analytics & Wallet-level Data Insights,On-chain Analytics & Wallet-level Data Insights,blockchain activity analysis,expanded_skills.csv
+S28,P2P Marketplaces & Smart Escrow for Game Assets,P2P Marketplaces & Smart Escrow for Game Assets,P2P game asset markets,expanded_skills.csv
+S28,P2P Marketplaces & Smart Escrow for Game Assets,P2P Marketplaces & Smart Escrow for Game Assets,smart escrow game trading,expanded_skills.csv
+S28,P2P Marketplaces & Smart Escrow for Game Assets,P2P Marketplaces & Smart Escrow for Game Assets,in-game asset escrow,expanded_skills.csv
+S28,P2P Marketplaces & Smart Escrow for Game Assets,P2P Marketplaces & Smart Escrow for Game Assets,peer-to-peer game asset trading,expanded_skills.csv
+S29,Gaming & GameFi Ecosystems,Gaming & GameFi Ecosystems,GameFi platforms,expanded_skills.csv
+S29,Gaming & GameFi Ecosystems,Gaming & GameFi Ecosystems,blockchain gaming ecosystems,expanded_skills.csv
+S29,Gaming & GameFi Ecosystems,Gaming & GameFi Ecosystems,tokenized gaming economies,expanded_skills.csv
+S29,Gaming & GameFi Ecosystems,Gaming & GameFi Ecosystems,Web3 gaming ecosystems,expanded_skills.csv
+S30,NFT Marketplaces & Fractionalized NFTs,NFT Marketplaces & Fractionalized NFTs,NFT trading marketplaces,expanded_skills.csv
+S30,NFT Marketplaces & Fractionalized NFTs,NFT Marketplaces & Fractionalized NFTs,fractional NFT protocols,expanded_skills.csv
+S30,NFT Marketplaces & Fractionalized NFTs,NFT Marketplaces & Fractionalized NFTs,digital collectible markets,expanded_skills.csv
+S30,NFT Marketplaces & Fractionalized NFTs,NFT Marketplaces & Fractionalized NFTs,fractional NFT ownership,expanded_skills.csv
+S31,Decentralized Advertising Exchanges & Web3 Ad Economies,Decentralized Advertising Exchanges & Web3 Ad Economies,Web3 ad exchanges,expanded_skills.csv
+S31,Decentralized Advertising Exchanges & Web3 Ad Economies,Decentralized Advertising Exchanges & Web3 Ad Economies,decentralized ad marketplaces,expanded_skills.csv
+S31,Decentralized Advertising Exchanges & Web3 Ad Economies,Decentralized Advertising Exchanges & Web3 Ad Economies,on-chain advertising economies,expanded_skills.csv
+S31,Decentralized Advertising Exchanges & Web3 Ad Economies,Decentralized Advertising Exchanges & Web3 Ad Economies,crypto ad inventory markets,expanded_skills.csv
+S32,Yield-trading & Hedging Platforms,Yield-trading & Hedging Platforms,yield trading protocols,expanded_skills.csv
+S32,Yield-trading & Hedging Platforms,Yield-trading & Hedging Platforms,yield hedging platforms,expanded_skills.csv
+S32,Yield-trading & Hedging Platforms,Yield-trading & Hedging Platforms,yield exposure markets,expanded_skills.csv
+S32,Yield-trading & Hedging Platforms,Yield-trading & Hedging Platforms,future-yield trading platforms,expanded_skills.csv
+S33,Asset Management Vaults & Market-Making Strategies,Asset Management Vaults & Market-Making Strategies,managed asset vaults,expanded_skills.csv
+S33,Asset Management Vaults & Market-Making Strategies,Asset Management Vaults & Market-Making Strategies,market-making strategy vaults,expanded_skills.csv
+S33,Asset Management Vaults & Market-Making Strategies,Asset Management Vaults & Market-Making Strategies,automated strategy vaults,expanded_skills.csv
+S33,Asset Management Vaults & Market-Making Strategies,Asset Management Vaults & Market-Making Strategies,DeFi asset management vaults,expanded_skills.csv
+S34,Verifiable Randomness (VRF) & On-chain RNG,Verifiable Randomness (VRF) & On-chain RNG,VRF randomness services,expanded_skills.csv
+S34,Verifiable Randomness (VRF) & On-chain RNG,Verifiable Randomness (VRF) & On-chain RNG,on-chain random number generation,expanded_skills.csv
+S34,Verifiable Randomness (VRF) & On-chain RNG,Verifiable Randomness (VRF) & On-chain RNG,verifiable on-chain RNG,expanded_skills.csv
+S34,Verifiable Randomness (VRF) & On-chain RNG,Verifiable Randomness (VRF) & On-chain RNG,tamper-resistant randomness,expanded_skills.csv
+S35,"Security, Audits & Risk Management","Security, Audits & Risk Management",smart contract security,expanded_skills.csv
+S35,"Security, Audits & Risk Management","Security, Audits & Risk Management",protocol audit practices,expanded_skills.csv
+S35,"Security, Audits & Risk Management","Security, Audits & Risk Management",DeFi risk management,expanded_skills.csv
+S35,"Security, Audits & Risk Management","Security, Audits & Risk Management",operational security tooling,expanded_skills.csv
+S36,Chain Abstraction & Native Interoperability,Chain Abstraction & Native Interoperability,chain abstraction protocols,expanded_skills.csv
+S36,Chain Abstraction & Native Interoperability,Chain Abstraction & Native Interoperability,native cross-chain interoperability,expanded_skills.csv
+S36,Chain Abstraction & Native Interoperability,Chain Abstraction & Native Interoperability,abstracted chain access,expanded_skills.csv
+S36,Chain Abstraction & Native Interoperability,Chain Abstraction & Native Interoperability,native asset interoperability,expanded_skills.csv
+S38,DePIN & Physical Infrastructure Tokenization,DePIN & Physical Infrastructure Tokenization,DePIN infrastructure networks,expanded_skills.csv
+S38,DePIN & Physical Infrastructure Tokenization,DePIN & Physical Infrastructure Tokenization,tokenized physical infrastructure,expanded_skills.csv
+S38,DePIN & Physical Infrastructure Tokenization,DePIN & Physical Infrastructure Tokenization,decentralized infrastructure tokenization,expanded_skills.csv
+S38,DePIN & Physical Infrastructure Tokenization,DePIN & Physical Infrastructure Tokenization,physical network tokenization,expanded_skills.csv
+S39,Layer 2 Scaling Solutions & Rollups,Layer 2 Scaling Solutions & Rollups,L2 scaling solutions,expanded_skills.csv
+S39,Layer 2 Scaling Solutions & Rollups,Layer 2 Scaling Solutions & Rollups,Layer 2 rollups,expanded_skills.csv
+S39,Layer 2 Scaling Solutions & Rollups,Layer 2 Scaling Solutions & Rollups,rollup scaling architectures,expanded_skills.csv
+S39,Layer 2 Scaling Solutions & Rollups,Layer 2 Scaling Solutions & Rollups,gas-efficient L2 systems,expanded_skills.csv
+S40,On-chain Gambling & Provably-fair Games,On-chain Gambling & Provably-fair Games,provably fair on-chain games,expanded_skills.csv
+S40,On-chain Gambling & Provably-fair Games,On-chain Gambling & Provably-fair Games,blockchain betting applications,expanded_skills.csv
+S40,On-chain Gambling & Provably-fair Games,On-chain Gambling & Provably-fair Games,verifiable game randomness,expanded_skills.csv
+S40,On-chain Gambling & Provably-fair Games,On-chain Gambling & Provably-fair Games,trust-minimized wagering games,expanded_skills.csv

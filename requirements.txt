@@ -1,0 +1,16 @@
+accelerate
+hydra-core
+numpy
+omegaconf
+openai
+pandas
+pydantic
+python-dotenv
+pytrec-eval
+PyYAML
+scikit-learn
+scipy
+sentence-transformers
+torch
+tqdm
+transformers

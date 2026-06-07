@@ -1,0 +1,121 @@
+skill_id,base_keyword,original_skill_keyword,paraphrased_keyword,source_file
+S1,Layer 1 blockchain platforms,Layer 1 blockchain platforms,L1 blockchain networks,expanded_skills.csv
+S1,Layer 1 blockchain platforms,Layer 1 blockchain platforms,base-layer blockchains,expanded_skills.csv
+S1,Layer 1 blockchain platforms,Layer 1 blockchain platforms,Layer 1 protocols,expanded_skills.csv
+S1,Layer 1 blockchain platforms,Layer 1 blockchain platforms,base-layer platforms,expanded_skills.csv
+S2,EVM compatibility,EVM compatibility,Ethereum Virtual Machine support,expanded_skills.csv
+S2,EVM compatibility,EVM compatibility,EVM-compatible execution,expanded_skills.csv
+S2,EVM compatibility,EVM compatibility,Ethereum-compatible smart contracts,expanded_skills.csv
+S2,EVM compatibility,EVM compatibility,Solidity contract compatibility,expanded_skills.csv
+S3,Move VM / Move-based execution,Move VM / Move-based execution,Move-based smart contract execution,expanded_skills.csv
+S3,Move VM / Move-based execution,Move VM / Move-based execution,Move VM blockchains,expanded_skills.csv
+S3,Move VM / Move-based execution,Move VM / Move-based execution,Move language execution,expanded_skills.csv
+S3,Move VM / Move-based execution,Move VM / Move-based execution,Move execution environments,expanded_skills.csv
+S4,Modular Layer 2 architectures,Modular Layer 2 architectures,modular L2 designs,expanded_skills.csv
+S4,Modular Layer 2 architectures,Modular Layer 2 architectures,modular Layer 2 systems,expanded_skills.csv
+S4,Modular Layer 2 architectures,Modular Layer 2 architectures,component-based L2 architectures,expanded_skills.csv
+S4,Modular Layer 2 architectures,Modular Layer 2 architectures,modular L2 architectures,expanded_skills.csv
+S5,Optimistic rollups,Optimistic rollups,optimistic L2 rollups,expanded_skills.csv
+S5,Optimistic rollups,Optimistic rollups,fraud-proof rollups,expanded_skills.csv
+S5,Optimistic rollups,Optimistic rollups,optimistic scaling rollups,expanded_skills.csv
+S5,Optimistic rollups,Optimistic rollups,optimistic Layer 2 systems,expanded_skills.csv
+S6,Zero-knowledge proofs & ZK rollups,Zero-knowledge proofs & ZK rollups,ZK proof systems,expanded_skills.csv
+S6,Zero-knowledge proofs & ZK rollups,Zero-knowledge proofs & ZK rollups,zero-knowledge rollups,expanded_skills.csv
+S6,Zero-knowledge proofs & ZK rollups,Zero-knowledge proofs & ZK rollups,ZK validity proofs,expanded_skills.csv
+S6,Zero-knowledge proofs & ZK rollups,Zero-knowledge proofs & ZK rollups,zero-knowledge proof mechanisms,expanded_skills.csv
+S7,Decentralized storage & data availability for blobs,Decentralized storage & data availability for blobs,decentralized blob storage,expanded_skills.csv
+S7,Decentralized storage & data availability for blobs,Decentralized storage & data availability for blobs,blob data availability layers,expanded_skills.csv
+S7,Decentralized storage & data availability for blobs,Decentralized storage & data availability for blobs,decentralized DA networks,expanded_skills.csv
+S7,Decentralized storage & data availability for blobs,Decentralized storage & data availability for blobs,redundant blob storage,expanded_skills.csv
+S8,AI-native blockchain infrastructure,AI-native blockchain infrastructure,AI-focused blockchain infrastructure,expanded_skills.csv
+S8,AI-native blockchain infrastructure,AI-native blockchain infrastructure,AI-native chain infrastructure,expanded_skills.csv
+S8,AI-native blockchain infrastructure,AI-native blockchain infrastructure,blockchain infrastructure for AI,expanded_skills.csv
+S8,AI-native blockchain infrastructure,AI-native blockchain infrastructure,on-chain AI coordination,expanded_skills.csv
+S9,On-chain datasets & model marketplaces (data tokenization),On-chain datasets & model marketplaces (data tokenization),tokenized data marketplaces,expanded_skills.csv
+S9,On-chain datasets & model marketplaces (data tokenization),On-chain datasets & model marketplaces (data tokenization),on-chain model marketplaces,expanded_skills.csv
+S9,On-chain datasets & model marketplaces (data tokenization),On-chain datasets & model marketplaces (data tokenization),dataset tokenization markets,expanded_skills.csv
+S9,On-chain datasets & model marketplaces (data tokenization),On-chain datasets & model marketplaces (data tokenization),ML model marketplaces,expanded_skills.csv
+S10,Federated learning & crowdsourced ML mechanisms,Federated learning & crowdsourced ML mechanisms,federated ML mechanisms,expanded_skills.csv
+S10,Federated learning & crowdsourced ML mechanisms,Federated learning & crowdsourced ML mechanisms,crowdsourced machine learning,expanded_skills.csv
+S10,Federated learning & crowdsourced ML mechanisms,Federated learning & crowdsourced ML mechanisms,distributed ML coordination,expanded_skills.csv
+S10,Federated learning & crowdsourced ML mechanisms,Federated learning & crowdsourced ML mechanisms,peer-based ML training,expanded_skills.csv
+S11,zkML / zero-knowledge machine learning,zkML / zero-knowledge machine learning,zero-knowledge ML,expanded_skills.csv
+S11,zkML / zero-knowledge machine learning,zkML / zero-knowledge machine learning,zkML proof systems,expanded_skills.csv
+S11,zkML / zero-knowledge machine learning,zkML / zero-knowledge machine learning,ZK machine learning proofs,expanded_skills.csv
+S11,zkML / zero-knowledge machine learning,zkML / zero-knowledge machine learning,privacy-preserving ML proofs,expanded_skills.csv
+S12,Oracles & off-chain data integration,Oracles & off-chain data integration,oracle data integration,expanded_skills.csv
+S12,Oracles & off-chain data integration,Oracles & off-chain data integration,off-chain data feeds,expanded_skills.csv
+S12,Oracles & off-chain data integration,Oracles & off-chain data integration,smart contract data oracles,expanded_skills.csv
+S12,Oracles & off-chain data integration,Oracles & off-chain data integration,authenticated external data feeds,expanded_skills.csv
+S13,Decentralized identity & ZK-based human/AI verification,Decentralized identity & ZK-based human/AI verification,ZK identity verification,expanded_skills.csv
+S13,Decentralized identity & ZK-based human/AI verification,Decentralized identity & ZK-based human/AI verification,decentralized identity systems,expanded_skills.csv
+S13,Decentralized identity & ZK-based human/AI verification,Decentralized identity & ZK-based human/AI verification,human and agent verification,expanded_skills.csv
+S13,Decentralized identity & ZK-based human/AI verification,Decentralized identity & ZK-based human/AI verification,privacy-preserving identity proofs,expanded_skills.csv
+S14,Cross-chain bridges & interoperability protocols,Cross-chain bridges & interoperability protocols,blockchain interoperability protocols,expanded_skills.csv
+S14,Cross-chain bridges & interoperability protocols,Cross-chain bridges & interoperability protocols,cross-chain asset bridges,expanded_skills.csv
+S14,Cross-chain bridges & interoperability protocols,Cross-chain bridges & interoperability protocols,multichain message transfer,expanded_skills.csv
+S14,Cross-chain bridges & interoperability protocols,Cross-chain bridges & interoperability protocols,cross-chain communication layers,expanded_skills.csv
+S15,"Liquidity protocols, AMMs & DEX primitives","Liquidity protocols, AMMs & DEX primitives",DEX liquidity primitives,expanded_skills.csv
+S15,"Liquidity protocols, AMMs & DEX primitives","Liquidity protocols, AMMs & DEX primitives",AMM liquidity protocols,expanded_skills.csv
+S15,"Liquidity protocols, AMMs & DEX primitives","Liquidity protocols, AMMs & DEX primitives",decentralized exchange primitives,expanded_skills.csv
+S15,"Liquidity protocols, AMMs & DEX primitives","Liquidity protocols, AMMs & DEX primitives",on-chain liquidity mechanisms,expanded_skills.csv
+S16,RWA tokenization & compliant asset tokenization,RWA tokenization & compliant asset tokenization,real-world asset tokenization,expanded_skills.csv
+S16,RWA tokenization & compliant asset tokenization,RWA tokenization & compliant asset tokenization,compliant RWA tokens,expanded_skills.csv
+S16,RWA tokenization & compliant asset tokenization,RWA tokenization & compliant asset tokenization,tokenized real-world assets,expanded_skills.csv
+S16,RWA tokenization & compliant asset tokenization,RWA tokenization & compliant asset tokenization,regulated asset tokenization,expanded_skills.csv
+S17,"Novel consensus mechanisms (e.g., Proof-of-Liquidity)","Novel consensus mechanisms (e.g., Proof-of-Liquidity)",alternative consensus mechanisms,expanded_skills.csv
+S17,"Novel consensus mechanisms (e.g., Proof-of-Liquidity)","Novel consensus mechanisms (e.g., Proof-of-Liquidity)",non-traditional consensus designs,expanded_skills.csv
+S17,"Novel consensus mechanisms (e.g., Proof-of-Liquidity)","Novel consensus mechanisms (e.g., Proof-of-Liquidity)",Proof-of-Liquidity consensus,expanded_skills.csv
+S17,"Novel consensus mechanisms (e.g., Proof-of-Liquidity)","Novel consensus mechanisms (e.g., Proof-of-Liquidity)",resource-based consensus models,expanded_skills.csv
+S18,Staking infrastructure & multisig treasury management,Staking infrastructure & multisig treasury management,staking infrastructure tooling,expanded_skills.csv
+S18,Staking infrastructure & multisig treasury management,Staking infrastructure & multisig treasury management,multisig treasury controls,expanded_skills.csv
+S18,Staking infrastructure & multisig treasury management,Staking infrastructure & multisig treasury management,validator operator infrastructure,expanded_skills.csv
+S18,Staking infrastructure & multisig treasury management,Staking infrastructure & multisig treasury management,multisig protocol treasury management,expanded_skills.csv
+S19,Derivative LP tokens & liquidized liquidity,Derivative LP tokens & liquidized liquidity,tradable LP derivatives,expanded_skills.csv
+S19,Derivative LP tokens & liquidized liquidity,Derivative LP tokens & liquidized liquidity,liquidized liquidity positions,expanded_skills.csv
+S19,Derivative LP tokens & liquidized liquidity,Derivative LP tokens & liquidized liquidity,derivative liquidity tokens,expanded_skills.csv
+S19,Derivative LP tokens & liquidized liquidity,Derivative LP tokens & liquidized liquidity,reusable LP position tokens,expanded_skills.csv
+S20,"Account abstraction, gasless transactions & signature abstraction","Account abstraction, gasless transactions & signature abstraction",gasless account abstraction,expanded_skills.csv
+S20,"Account abstraction, gasless transactions & signature abstraction","Account abstraction, gasless transactions & signature abstraction",abstracted transaction signing,expanded_skills.csv
+S20,"Account abstraction, gasless transactions & signature abstraction","Account abstraction, gasless transactions & signature abstraction",signature abstraction models,expanded_skills.csv
+S20,"Account abstraction, gasless transactions & signature abstraction","Account abstraction, gasless transactions & signature abstraction",customizable account validation,expanded_skills.csv
+S21,On-chain governance & DAO tooling,On-chain governance & DAO tooling,DAO governance tooling,expanded_skills.csv
+S21,On-chain governance & DAO tooling,On-chain governance & DAO tooling,on-chain voting primitives,expanded_skills.csv
+S21,On-chain governance & DAO tooling,On-chain governance & DAO tooling,smart contract governance frameworks,expanded_skills.csv
+S21,On-chain governance & DAO tooling,On-chain governance & DAO tooling,token-based governance systems,expanded_skills.csv
+S22,Privacy-preserving protocols & privacy-first dApps,Privacy-preserving protocols & privacy-first dApps,privacy-focused protocols,expanded_skills.csv
+S22,Privacy-preserving protocols & privacy-first dApps,Privacy-preserving protocols & privacy-first dApps,privacy-first decentralized applications,expanded_skills.csv
+S22,Privacy-preserving protocols & privacy-first dApps,Privacy-preserving protocols & privacy-first dApps,confidential dApp protocols,expanded_skills.csv
+S22,Privacy-preserving protocols & privacy-first dApps,Privacy-preserving protocols & privacy-first dApps,private computation dApps,expanded_skills.csv
+S23,Decentralized compute & resource orchestration,Decentralized compute & resource orchestration,distributed compute orchestration,expanded_skills.csv
+S23,Decentralized compute & resource orchestration,Decentralized compute & resource orchestration,decentralized compute markets,expanded_skills.csv
+S23,Decentralized compute & resource orchestration,Decentralized compute & resource orchestration,on-chain compute coordination,expanded_skills.csv
+S23,Decentralized compute & resource orchestration,Decentralized compute & resource orchestration,distributed resource scheduling,expanded_skills.csv
+S24,AI agents & automated on-chain agents,AI agents & automated on-chain agents,automated blockchain agents,expanded_skills.csv
+S24,AI agents & automated on-chain agents,AI agents & automated on-chain agents,on-chain AI agents,expanded_skills.csv
+S24,AI agents & automated on-chain agents,AI agents & automated on-chain agents,autonomous smart contract agents,expanded_skills.csv
+S24,AI agents & automated on-chain agents,AI agents & automated on-chain agents,crypto-native AI agents,expanded_skills.csv
+S25,"NFTs, metaverse interoperability & content provenance","NFTs, metaverse interoperability & content provenance",NFT content provenance,expanded_skills.csv
+S25,"NFTs, metaverse interoperability & content provenance","NFTs, metaverse interoperability & content provenance",metaverse NFT interoperability,expanded_skills.csv
+S25,"NFTs, metaverse interoperability & content provenance","NFTs, metaverse interoperability & content provenance",tokenized content provenance,expanded_skills.csv
+S25,"NFTs, metaverse interoperability & content provenance","NFTs, metaverse interoperability & content provenance",digital asset provenance standards,expanded_skills.csv
+S26,Gaming-specific chains & on-chain game engines,Gaming-specific chains & on-chain game engines,game-focused blockchain networks,expanded_skills.csv
+S26,Gaming-specific chains & on-chain game engines,Gaming-specific chains & on-chain game engines,on-chain gaming engines,expanded_skills.csv
+S26,Gaming-specific chains & on-chain game engines,Gaming-specific chains & on-chain game engines,blockchain game infrastructure,expanded_skills.csv
+S26,Gaming-specific chains & on-chain game engines,Gaming-specific chains & on-chain game engines,gaming-optimized chain primitives,expanded_skills.csv
+S27,Omnichain & modular cross-chain protocols,Omnichain & modular cross-chain protocols,omnichain protocol suites,expanded_skills.csv
+S27,Omnichain & modular cross-chain protocols,Omnichain & modular cross-chain protocols,modular cross-chain systems,expanded_skills.csv
+S27,Omnichain & modular cross-chain protocols,Omnichain & modular cross-chain protocols,composable cross-chain protocols,expanded_skills.csv
+S27,Omnichain & modular cross-chain protocols,Omnichain & modular cross-chain protocols,multichain interoperability primitives,expanded_skills.csv
+S28,High-performance exchange-specialized L1/L2 primitives,High-performance exchange-specialized L1/L2 primitives,exchange-optimized chain primitives,expanded_skills.csv
+S28,High-performance exchange-specialized L1/L2 primitives,High-performance exchange-specialized L1/L2 primitives,trading-focused L1/L2 systems,expanded_skills.csv
+S28,High-performance exchange-specialized L1/L2 primitives,High-performance exchange-specialized L1/L2 primitives,low-latency exchange infrastructure,expanded_skills.csv
+S28,High-performance exchange-specialized L1/L2 primitives,High-performance exchange-specialized L1/L2 primitives,high-throughput trading primitives,expanded_skills.csv
+S29,"Developer SDKs, frameworks & composable smart contract layers","Developer SDKs, frameworks & composable smart contract layers",smart contract development SDKs,expanded_skills.csv
+S29,"Developer SDKs, frameworks & composable smart contract layers","Developer SDKs, frameworks & composable smart contract layers",composable contract frameworks,expanded_skills.csv
+S29,"Developer SDKs, frameworks & composable smart contract layers","Developer SDKs, frameworks & composable smart contract layers",developer tooling frameworks,expanded_skills.csv
+S29,"Developer SDKs, frameworks & composable smart contract layers","Developer SDKs, frameworks & composable smart contract layers",modular smart contract layers,expanded_skills.csv
+S30,On-chain model training/deployment marketplaces & model governance,On-chain model training/deployment marketplaces & model governance,on-chain ML model marketplaces,expanded_skills.csv
+S30,On-chain model training/deployment marketplaces & model governance,On-chain model training/deployment marketplaces & model governance,model deployment marketplaces,expanded_skills.csv
+S30,On-chain model training/deployment marketplaces & model governance,On-chain model training/deployment marketplaces & model governance,ML model governance systems,expanded_skills.csv
+S30,On-chain model training/deployment marketplaces & model governance,On-chain model training/deployment marketplaces & model governance,tokenized model training platforms,expanded_skills.csv

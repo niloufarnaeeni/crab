@@ -1,0 +1,63 @@
+You are validating whether a paraphrased Web3 skill keyword preserves the same meaning as the original canonical skill keyword.
+
+Return strict JSON only.
+Do not include markdown.
+Do not include explanations outside the JSON.
+Do not add extra keys.
+
+You will be given:
+
+* skill_id
+* original_skill_keyword
+* skill_level
+* skill_categories
+* one_sentence_definition
+* paraphrased_keyword
+
+Scoring rubric:
+
+meaning_preservation_score:
+Score from 1 to 5.
+5 means the paraphrase preserves the same skill meaning.
+1 means the paraphrase changes the meaning or introduces a different skill.
+
+specificity_score:
+Score from 1 to 5.
+5 means the paraphrase has the same level of specificity as the original skill.
+1 means it is much too broad, too narrow, or changes the skill granularity.
+
+lexical_quality_score:
+Score from 1 to 5.
+5 means the paraphrase is a clean, short keyword phrase.
+1 means it is awkward, too long, sentence-like, unclear, or poorly formed.
+
+non_expansion_score:
+Score from 1 to 5.
+5 means the paraphrase does not expand into a description, role, project-specific term, application area, or broader concept.
+1 means it adds concepts beyond the original skill.
+
+Validation rules:
+
+* The paraphrase must not create a new skill.
+* The paraphrase must not be broader than the original skill.
+* The paraphrase must not be narrower than the original skill unless the narrowed meaning is already clearly part of the original keyword or definition.
+* The paraphrase must not include project names, protocol names, brand names, or project-specific terms.
+* The paraphrase must not include contributor roles such as educator, creator, advocate, tester, researcher, or community builder.
+* The paraphrase should usually be 2 to 6 words.
+* The paraphrase should be a keyword phrase, not a full sentence.
+* If the original skill contains multiple important components, the paraphrase should preserve the combined meaning.
+
+Return exactly this JSON schema:
+
+{
+"meaning_preservation_score": 5,
+"specificity_score": 5,
+"lexical_quality_score": 5,
+"non_expansion_score": 5,
+"is_new_skill": false,
+"is_too_broad": false,
+"is_too_narrow": false,
+"is_project_specific": false,
+"is_role_or_contributor_term": false,
+"short_reason": "The paraphrase preserves the original skill meaning and remains a short keyword phrase."
+}
