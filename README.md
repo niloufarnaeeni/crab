@@ -1,6 +1,7 @@
-# CARE-Bench: A Benchmark for Creator Retrieval in Incentivized Attention Economies
 
-This repository contains the datasets and code for studying creator retrieval and incentivized attention economies. CARE-Bench combines structured creator--project data, attention signals, skill annotations, query reformulation, text-based ranking, and graph-based retrieval for project-to-creator matching.
+# CRAB: Benchmarking Creator Retrieval and Attention for Generative Search
+
+This repository contains the datasets and code for CRAB (Creator Retrieval and Attention Benchmark), which studies creator retrieval in incentivized attention economies. CRAB combines structured creator--project data, attention signals, skill annotations, query reformulation, text-based ranking, and graph-based retrieval for project-to-creator matching.
 
 ## Data
 
@@ -89,4 +90,4 @@ python reformulation/run_reformulation_validation_pipeline.py \
 
 ## Heterogeneous Context--Creator--Skill Graph
 
-CARE-Bench models the attention economy as a heterogeneous context--creator--skill graph. Projects represent retrieval contexts, creators represent candidate actors, and skills represent inferred expertise requirements. These nodes are connected through participation and requirement relations.
+CRAB models the attention economy as a heterogeneous context--creator--skill graph. Projects represent retrieval contexts, creators represent candidate actors, and skills represent inferred expertise requirements. These nodes are connected through participation and requirement relations.
